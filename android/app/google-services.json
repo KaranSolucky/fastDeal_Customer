@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431403514669",
+    "project_id": "fastdealuser-64aea",
+    "storage_bucket": "fastdealuser-64aea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431403514669:android:d03cbdea459c673e8cf1a4",
+        "android_client_info": {
+          "package_name": "com.fastdeal.fastdealuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPolq2csJ1vw4r41qQb7c9XSC5At0aMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

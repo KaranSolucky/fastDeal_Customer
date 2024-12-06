@@ -1,0 +1,61 @@
+M = modified ( replace file in your project )
+A = added    ( add     file in your project )
+D = deleted  ( delete  file in your project )
+R = renamed  ( rename  file in your project )
+
+A       .vscode/launch.json
+M       android/app/build.gradle
+M       android/app/src/main/AndroidManifest.xml
+A       assets/images/add_to_cart.svg
+A       assets/images/buy_now.svg
+A       assets/images/save_for_later.svg
+A       deep-link/apple-app-site-association
+A       deep-link/assetlinks.json
+M       ios/Info.plist
+A       ios/Podfile.lock
+M       ios/Runner.xcodeproj/project.pbxproj
+M       ios/Runner/AppDelegate.swift
+M       ios/Runner/Info.plist
+M       ios/Runner/Runner.entitlements
+M       lib/Helper/PushNotificationService.dart
+M       lib/Helper/SqliteData.dart
+M       lib/Helper/String.dart
+M       lib/Helper/routes.dart
+M       lib/Language/ar.json
+M       lib/Language/de.json
+M       lib/Language/en.json
+M       lib/Language/es.json
+M       lib/Language/hi.json
+M       lib/Language/ja.json
+M       lib/Language/ru.json
+M       lib/Language/zh.json
+M       lib/Model/Section_Model.dart
+M       lib/Model/User.dart
+M       lib/Provider/CartProvider.dart
+M       lib/Screen/Chat.dart
+M       lib/Screen/Dashboard.dart
+M       lib/Screen/FlashSale.dart
+M       lib/Screen/FlashSaleProductList.dart
+M       lib/Screen/HomePage.dart
+M       lib/Screen/Map.dart
+M       lib/Screen/OrderDetail.dart
+M       lib/Screen/Payment.dart
+M       lib/Screen/ProductList.dart
+M       lib/Screen/Product_DetailNew.dart
+M       lib/Screen/Product_Preview.dart
+M       lib/Screen/Profile/MyProfile.dart
+M       lib/Screen/ReviewList.dart
+M       lib/Screen/SectionList.dart
+M       lib/Screen/cart/Cart.dart
+M       lib/Screen/chat/converstationScreen.dart
+M       lib/cubits/downloadFileCubit.dart
+M       lib/main.dart
+M       lib/settings.dart
+M       lib/ui/styles/DesignConfig.dart
+M       lib/ui/styles/themedata.dart
+M       lib/ui/widgets/Stripe_Service.dart
+M       lib/ui/widgets/fullscreen_player.dart
+M       lib/ui/widgets/quality_links.dart
+M       lib/ui/widgets/vimeoplayer.dart
+M       pubspec.lock
+M       pubspec.yaml
