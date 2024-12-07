@@ -117,7 +117,7 @@ class _SplashScreen extends State<Splash> {
             color: Theme.of(context).colorScheme.primarytheme,
             child: Center(
               child:   Image.asset(
-                'assets/images/1024.jpg',
+                'assets/images/1024.png',
                 fit: BoxFit.fill,
                 width: double.infinity,
                 height: double.infinity,

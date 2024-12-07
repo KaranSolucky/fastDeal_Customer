@@ -152,7 +152,7 @@ class _LoginPageState extends State<SetPass> with TickerProviderStateMixin {
     return Expanded(
       child: Center(
         child: Image.asset(
-          'assets/images/1024.jpg',
+          'assets/images/1024.png',
           fit: BoxFit.fill,
           width: double.infinity,
           height: double.infinity,
