@@ -65,10 +65,8 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginScreen> with TickerProviderStateMixin {
-  final mobileController =
-      TextEditingController(text: isDemoApp ? "9876543210" : "");
-  final passwordController =
-      TextEditingController(text: isDemoApp ? "12345678" : "");
+  final mobileController = TextEditingController(text: "");
+  final passwordController = TextEditingController(text: "");
   String? countryName;
   FocusNode? passFocus, monoFocus = FocusNode();
 
