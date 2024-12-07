@@ -385,11 +385,11 @@ class HomePageState extends State<Dashboard>
       automaticallyImplyLeading: false,
       title: _selBottom == 0
           ? Image.asset(
-                'assets/images/fastdeal.jpg',
-                fit: BoxFit.contain,
-                width: 50,
-                height: 50,
-              )
+              'assets/images/1024.png',
+              fit: BoxFit.contain,
+              width: 50,
+              height: 50,
+            )
           : Text(
               title!,
               style: TextStyle(
